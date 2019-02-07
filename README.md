@@ -1,8 +1,8 @@
-# A Ray-Tracer Engine in *c++*
+# Ray-Tracer Engine in *c++*
 
 ## Introduction
 
-This is the final project for the Subject *Synthetic Image* (Ray Tracing for Realistic Image Synthesis) at [Universitat Pompeu Fabra (Barcelona).](https://www.upf.edu)
+This is my final project for the Subject *Synthetic Image* (Ray Tracing for Realistic Image Synthesis) at [Universitat Pompeu Fabra (Barcelona).](https://www.upf.edu)
 
 Following the course me and my partner partially implemented a Ray-Tracer Graphics Engine in c++.
 
@@ -12,9 +12,9 @@ More specifically, we implemented:
 
 - Different *phong materials* with solid, mirror-like, transmissive and many other behaviours.
 
-- Light sources which have an area (as opposed to thepoint light sources)
+- *Light sources* which have an area (as opposed to the point light sources)
 
-- New geometric figures such as spheres, infinite planes cilinders and Disks using rayobject intersection mathematics.
+- New *geometric figures* such as spheres, infinite planes, cilinders and Disks using rayobject intersection mathematics.
 
 ## Environment Setup
 
@@ -29,5 +29,9 @@ Collaborator	GEMMA ALAIX I GRANELL.
 
 
 ## Bibliography
+Andrews Glassner, “An Introduction to Ray Tracing”, Academic Press Ltd. London, 1989 (Primera Edició)
 
+Matt Pharr and Greg Humphreys, “Physically Based Rendering: From Theory to Implementation”, Morgan Kaufmann Publishers, 2010 (Segona Edició)
+
+Philip Dutré, Philippe Bekaert, Kavita Bala, “Advanced Global Illumination”, AK Peters, 2006 (Segona Edició)
 
